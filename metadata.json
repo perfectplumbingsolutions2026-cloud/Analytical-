@@ -1,0 +1,6 @@
+{
+  "name": "FootyAnalytics",
+  "description": "Global Multi-Market Football Analytics Platform with statistical modeling, trap detection, and 50,000 Monte Carlo simulations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
